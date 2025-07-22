@@ -1,10 +1,8 @@
 # Certifications
 This repository contains my completed course and certification achievements.!
-# 📜 Certifications
+# Certifications
 
-## 🧠 IBM Data Science Tools
-
-![IBM Certificate](./storage/emulated/0/Pictures/Whatsapp/IBM_Data_Science_Tools_Certificate.jpg)
+# IBM Data Science Tools
 
 - Platform: Cognitive Class
 - Issued by: IBM
