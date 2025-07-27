@@ -1,6 +1,5 @@
 # Certifications
 This repository contains my completed course and certification achievements.!
-# Certifications
 
 # IBM Data Science Tools
 
